@@ -1,5 +1,5 @@
 {
-  "name": "5_modulos_externos",
+  "name": "6_executando_argumentos",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,5 +7,8 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
 }
